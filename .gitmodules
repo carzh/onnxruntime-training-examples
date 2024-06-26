@@ -1,6 +1,0 @@
-[submodule "optimum"]
-	path = optimum
-	url = https://github.com/huggingface/optimum.git
-[submodule "transformers"]
-	path = transformers
-	url = https://github.com/huggingface/transformers.git
